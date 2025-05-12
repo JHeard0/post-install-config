@@ -22,34 +22,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configuring Roles
+- Configuring Departments
+- Configuring Teams, Agents, and Users
+- Configuring SLA
+- Configuring Help Topics
+  
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Configure the Sys Admins role & department<h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://i.imgur.com/4RNNvyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/07bNLrP.png" height="40%" width="40%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/AucTAHh.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+<h2> Configuring Teams & Agents</h2>
+
+Jane is a Sys Admin and a part of the online banking team.
+<img src="https://i.imgur.com/Sw1BAQF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/BQhIZS9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/ddI72nf.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+John is a part of the Support department.
+<img src="https://i.imgur.com/4RNNvyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/VdLFGvY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/xspmw74.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Agents configuration overview
+<img src="https://i.imgur.com/xspmw74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
