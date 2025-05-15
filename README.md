@@ -77,4 +77,5 @@ Configuring the severity of tickets.
 <h2>Help Topics Overview</h2>
 <img src="https://i.imgur.com/kC8pQEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Happy Ticketing 
+<h2>Happy Ticketing</h2>
+[osTicket: Ticket Lifecycle Examples](https://github.com/JHeard0/ticket-lifecycle)
