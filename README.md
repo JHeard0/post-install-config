@@ -45,9 +45,9 @@ Configure the agents Jane and John. Jane is a Sys Admin and a part of the online
 
 <img src="https://i.imgur.com/BQhIZS9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/ddI72nf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/4RNNvyM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xrbjnWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/VdLFGvY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/xspmw74.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VdLFGvY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Agents configuration overview<h2/>
 <img src="https://i.imgur.com/xspmw74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
