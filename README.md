@@ -52,7 +52,7 @@ Configure the agents Jane and John. Jane is a Sys Admin and a part of the online
 <h2>Agents configuration overview<h2/>
 <img src="https://i.imgur.com/xspmw74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Configuring Users <h2>
+<h2>Configuring Users </h2>
 Creating end users Karen Krocy and Ken Krocker.
 <img src="https://i.imgur.com/KroEY85.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/AY4hdn7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/Yk8chuq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
